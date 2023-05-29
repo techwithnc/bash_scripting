@@ -1,4 +1,4 @@
-# <p align="center"> BASH SCRIPTING </p>
+# <p align="center"> Bash Scripting </p>
 
-### example_01 (Checking Number is Even or Odd)
+#### Checking Number is Even or Odd.
 ![eg01](images/number-is-even-or-odd.png)
