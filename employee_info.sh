@@ -1,16 +1,13 @@
 #!/bin/bash
-#
-# Author: TechWithNC
-#
-# Date Created: 2/Jun/2023
-# Last Modified: 2/Jun/2023
-#
-# Decription.
-# This script will collect employee information and saved to employee_info.scv file.
-#
-# Usges.
-# ./employee_info.sh
-#
+#####################################################################################
+# 		Author:		TechWithNC
+# 		Date Created:	2/Jun/2023
+# 		Last Modified:  2/Jun/2023
+# 		Decription:	This script will collect employee information
+# 			     	and saved to employee_info.scv file.
+#	 	Usges:		./employee_info.sh
+#####################################################################################
+
 echo "Hello, Welcome , this script will collect some information about employee ..."
 PS3="What is the name of the city which employee  living? "
 user_choose=yes
