@@ -4,7 +4,7 @@
 # 		Date Created:	2/Jun/2023
 # 		Last Modified:  2/Jun/2023
 # 		Decription:	This script will collect employee information
-# 			     	and saved to employee_info.scv file.
+# 			     	and saved to employee_info.csv file.
 #	 	Usges:		./employee_info.sh
 #####################################################################################
 
