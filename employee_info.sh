@@ -1,12 +1,12 @@
 #!/bin/bash
 
 #####################################################################################
-### 		    Author:		TechWithNC (www.youtube.com/@techwithnc)                    ###
-### 		    Date Created:	2/Jun/2023                                              ###
-### 		    Last Modified:  2/Jun/2023                                            ###
-### 		    Decription:	This script will collect employee information             ###
-### 		         	     	and saved to employee_info.csv file.                      ###
-###	 	      Usges:		./employee_info.sh                                          ###
+### 		Author:		TechWithNC (www.youtube.com/@techwithnc)          ###
+### 		Date Created:	2/Jun/2023                                        ###
+### 		Last Modified:	2/Jun/2023                                        ###
+### 		Decription:	This script will collect employee information     ###
+### 		          	and saved to employee_info.csv file.              ###
+###		Usges:		./employee_info.sh                                ###
 #####################################################################################
 
 echo "Hello, Welcome , this script will collect some information about employee ..."
