@@ -1,11 +1,11 @@
 #!/bin/bash
 
 #####################################################################################
-### 		    Author:		TechWithNC (www.youtube.com/@techwithnc)              ###
-### 		    Date Created:	29/May/2023                                       ###
-### 		    Last Modified:  2/Jun/2023                                        ###
-### 		    Decription:	This script will check number is even or odd          ###
-###	 	        Usges:		./number_is_even_or_odd.sh                            ###
+###	    Author:		TechWithNC (www.youtube.com/@techwithnc)          ###
+### 	    Date Created:	29/May/2023                                       ###
+### 	    Last Modified:	2/Jun/2023                                        ###
+### 	    Decription:		This script will check number is even or odd      ###
+###	    Usges:		./number_is_even_or_odd.sh                        ###
 #####################################################################################
 
 echo "Welcome! This script will check number is even or odd."
