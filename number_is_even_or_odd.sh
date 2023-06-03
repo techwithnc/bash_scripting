@@ -3,14 +3,17 @@
 #####################################################################################
 ###	    Author:		TechWithNC (www.youtube.com/@techwithnc)          ###
 ### 	    Date Created:	29/May/2023                                       ###
-### 	    Last Modified:	2/Jun/2023                                        ###
+### 	    Last Modified:	03/Jun/2023                                       ###
 ### 	    Decription:		This script will check number is even or odd      ###
 ###	    Usges:		./number_is_even_or_odd.sh                        ###
 #####################################################################################
 
 echo "Welcome! This script will check number is even or odd."
+
 read -p "What is your name? : " NAME
+
 USER_INPUT=y
+
 while [[ $USER_INPUT = y ]]; do
 read -rp "Enter number : " VAR
    if [[ $VAR =~ ^[0-9]+$ ]];then
@@ -22,6 +25,8 @@ read -rp "Enter number : " VAR
    else
       echo "Please enter only numerical value"
    fi
+
 read -rp "Want to try agin? (y/n) : " USER_INPUT
 done
+
 echo "Thank you for using me , bye!!!"
