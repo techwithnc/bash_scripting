@@ -1,12 +1,15 @@
 # <p align="center"> Bash Scripting </p>
 
-#### Age Calculator and birthday wish.
+#### Screenshot image of using backup script.
+![eg04](images/backup.png)
+
+#### Screenshot image of using Age Calculator script.
 ![eg03](images/age_calculator.png)
 
-#### Employee's info collection.
+#### Screenshot image of using Employee_info collection script.
 ![eg02](images/employee_info.png)
 
-#### Checking Number is Even or Odd.
+#### Screenshot image of using script.
 ![eg01](images/number-is-even-or-odd.png)
 
 
