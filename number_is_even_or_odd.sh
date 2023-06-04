@@ -26,7 +26,7 @@ read -rp "Enter number : " VAR
       echo "Please enter only numerical value"
    fi
 
-read -rp "Want to try agin? (y/n) : " USER_INPUT
+read -rp "Want to try again? (y/n) : " USER_INPUT
 done
 
 echo "Thank you for using me , bye!!!"
