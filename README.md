@@ -1,5 +1,8 @@
 # <p align="center"> Bash Scripting </p>
 
+#### Screenshot image of using maximum and minimum numbers finder.
+![eg05](images/max_min.png)
+
 #### Screenshot image of using backup script.
 ![eg04](images/backup.png)
 
