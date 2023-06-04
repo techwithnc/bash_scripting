@@ -9,7 +9,7 @@
 #### Screenshot image of using Employee_info collection script.
 ![eg02](images/employee_info.png)
 
-#### Screenshot image of using script.
+#### Screenshot image of using Even_Odd_Checker script.
 ![eg01](images/number-is-even-or-odd.png)
 
 
