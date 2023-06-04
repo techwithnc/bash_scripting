@@ -33,5 +33,5 @@ echo "Maximum number is: $max_num."
 echo "Minimum numver is: $min_num."
 echo "Total numbers that you enter is: ${#num_array[@]}."
 echo
-echo "~~~~~~~~~~~~~~~~~~~~~~  Thank You! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+echo "~~~~~~~~~~~~~~~~~~~~~~   Thank You!   ~~~~~~~~~~~~~~~~~~~~~~" 
 echo
