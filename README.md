@@ -1,5 +1,8 @@
 # <p align="center"> Bash Scripting </p>
 
+#### Screenshot image of update script.
+![eg07](images/update.png)
+
 #### Screenshot image of using directory search script.
 ![eg06_1](images/dir_search.png)
 
