@@ -1,11 +1,10 @@
 # <p align="center"> Bash Scripting </p>
 
+#### Screenshot image of using directory search script.
+![eg06_1](images/dir_search.png)
 
 #### Screenshot image of using file search script.
-![eg06_1](images/file_search.png)
-
-#### Screenshot image of using directory search script.
-![eg06_2](images/dir_search.png)
+![eg06_2](images/file_search.png)
 
 #### Screenshot image of using command search script.
 ![eg06_3](images/command_search.png)
